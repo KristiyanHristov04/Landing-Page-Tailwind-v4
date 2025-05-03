@@ -51,7 +51,7 @@ landing-page/
 
 1.  Clone the repository:
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/KristiyanHristov04/Landing-Page-Tailwind-v4.git
     cd landing-page
     ```
 2.  Install dependencies:
