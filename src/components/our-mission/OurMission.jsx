@@ -4,7 +4,7 @@ const OurMission = () => {
             <h3 className="text-center text-[40px] font-montserrat font-bold mb-2">Our Mission</h3>
             <div className="w-16 h-1 rounded-full bg-secondary mx-auto mb-12"></div>
             <div className="flex flex-col md:flex-row gap-10 justify-center items-center w-[80%] mx-auto">
-                <div className="basis-1/2 shadow-2xl rounded-[8px] overflow-hidden" data-aos="fade-right" data-aos-duration="1000" data-aos-offset="300">
+                <div className="basis-1/2 shadow-2xl rounded-[8px] overflow-hidden" data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100">
                     <img src="/images/ocean2.jpeg" className="w-full h-full object-cover" />
                 </div>
                 <div className="basis-1/2" data-aos="fade-left" data-aos-duration="1000">

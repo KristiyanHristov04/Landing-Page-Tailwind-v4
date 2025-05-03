@@ -11,6 +11,8 @@ This is a simple landing page showcasing various sections commonly found on webs
 *   **React:** A JavaScript library for building user interfaces.
 *   **Vite:** A fast build tool and development server.
 *   **Tailwind CSS v4:** A utility-first CSS framework.
+*   **AOS (Animate On Scroll Library):** For scroll animations.
+*   **react-countup:** For animating numbers.
 
 ## Project Structure
 
