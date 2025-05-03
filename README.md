@@ -72,3 +72,10 @@ yarn dev
 ```
 
 This will start the Vite development server, typically available at `http://localhost:5173`.
+![oceanpure01](https://github.com/user-attachments/assets/52833871-5d9a-4d9b-9aaa-cd6c914d96d7)
+![oceanpure02](https://github.com/user-attachments/assets/bb0ac33f-0767-4874-bcd6-54d769b47798)
+![oceanpure03](https://github.com/user-attachments/assets/63fd29f7-f9bd-4010-a7eb-4d657433efeb)
+![oceanpure04](https://github.com/user-attachments/assets/afca419b-c498-4884-8ef3-45f7ed363265)
+![oceanpure05](https://github.com/user-attachments/assets/afb4ead8-82a4-4212-8249-2da22732125a)
+![oceanpure06](https://github.com/user-attachments/assets/ded9e2b4-4a8b-44e2-81b5-06808cfaf535)
+![oceanpure07](https://github.com/user-attachments/assets/ffd1218b-b8c9-4bf0-bc0f-cbdaa12ac8c6)
