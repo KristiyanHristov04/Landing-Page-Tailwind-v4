@@ -22,6 +22,10 @@
   :root {
     @apply font-sans;
     scroll-behavior: smooth;
+    /* overflow-x: hidden !important; */
+  }
+
+  #root {
     overflow-x: hidden;
   }
 }
