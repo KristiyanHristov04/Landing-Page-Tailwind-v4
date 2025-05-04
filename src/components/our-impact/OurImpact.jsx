@@ -6,7 +6,7 @@ const OurImpact = () => {
         <section className="p-20 bg-gray-100" id="impact">
             <h3 className="text-center text-[40px] font-montserrat font-bold mb-2">Our Impact</h3>
             <div className="w-16 h-1 rounded-full bg-secondary mx-auto mb-12"></div>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-10" data-aos="fade-up" data-aos-duration="1000">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-10" data-aos="fade-up" data-aos-duration="1000" data-aos-offset="100">
                 <ImpactCard
                     heading="5,000,000"
                     description="Tons of plastic removed"

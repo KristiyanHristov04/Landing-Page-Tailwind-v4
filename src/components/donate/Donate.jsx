@@ -38,7 +38,7 @@ const Donate = () => {
                     <p className="mb-6">Your contribution helps us deploy cleanup technologies, support research, and engage communities in protecting our oceans.</p>
                     <p className="mb-6">Every dollar counts in our mission to restore the health of marine ecosystems worldwide.</p>
                 </div>
-                <div className="basis-1/2 shadow-xl rounded-[8px] p-8 bg-white" data-aos="fade-left" data-aos-duration="1000">
+                <div className="basis-1/2 shadow-xl rounded-[8px] p-8 bg-white" data-aos="fade-left" data-aos-duration="1000" data-aos-offset="100">
                     <h3 className="text-[28px] font-bold text-primary text-center mb-6">Donate to OceanPure</h3>
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-6">
                         {donationAmounts.map((donation) =>

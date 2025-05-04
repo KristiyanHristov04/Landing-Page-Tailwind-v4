@@ -5,7 +5,7 @@ const RecentProjects = () => {
         <section className="p-20 bg-white" id="projects">
             <h3 className="text-center text-[40px] font-montserrat font-bold mb-2">Recent Projects</h3>
             <div className="w-16 h-1 rounded-full bg-secondary mx-auto mb-12"></div>
-            <div data-aos="zoom-in" data-aos-duration="1000" className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+            <div data-aos="zoom-in" data-aos-duration="1000" data-aos-offset="100" className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
                 <ProjectCard 
                     title="Pacific Cleanup Initiative"
                     description="Removing plastic debris from the Great Pacific Garbage Patch using advanced collection systems."
